@@ -1,0 +1,10 @@
+C:\Users\SAILS-DM159\source\repos\THOST\bin\Debug\THOST.dacpac
+C:\Users\SAILS-DM159\source\repos\THOST\bin\Debug\THOST.dll
+C:\Users\SAILS-DM159\source\repos\THOST\bin\Debug\THOST.pdb
+C:\Users\SAILS-DM159\source\repos\THOST\obj\Debug\THOST.sqlproj.AssemblyReference.cache
+C:\Users\SAILS-DM159\source\repos\THOST\obj\Debug\Model.xml
+C:\Users\SAILS-DM159\source\repos\THOST\obj\Debug\refactor.xml
+C:\Users\SAILS-DM159\source\repos\THOST\obj\Debug\postdeploy.sql
+C:\Users\SAILS-DM159\source\repos\THOST\obj\Debug\predeploy.sql
+C:\Users\SAILS-DM159\source\repos\THOST\obj\Debug\THOST.dll
+C:\Users\SAILS-DM159\source\repos\THOST\obj\Debug\THOST.pdb

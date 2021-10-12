@@ -1,0 +1,10 @@
+C:\Users\SAILS-DM159\source\repos\TrainEnquiry\bin\Debug\netcoreapp3.1\TrainEnquiry.deps.json
+C:\Users\SAILS-DM159\source\repos\TrainEnquiry\bin\Debug\netcoreapp3.1\TrainEnquiry.dll
+C:\Users\SAILS-DM159\source\repos\TrainEnquiry\bin\Debug\netcoreapp3.1\TrainEnquiry.pdb
+C:\Users\SAILS-DM159\source\repos\TrainEnquiry\obj\Debug\netcoreapp3.1\TrainEnquiry.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM159\source\repos\TrainEnquiry\obj\Debug\netcoreapp3.1\TrainEnquiry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM159\source\repos\TrainEnquiry\obj\Debug\netcoreapp3.1\TrainEnquiry.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM159\source\repos\TrainEnquiry\obj\Debug\netcoreapp3.1\TrainEnquiry.AssemblyInfo.cs
+C:\Users\SAILS-DM159\source\repos\TrainEnquiry\obj\Debug\netcoreapp3.1\TrainEnquiry.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM159\source\repos\TrainEnquiry\obj\Debug\netcoreapp3.1\TrainEnquiry.dll
+C:\Users\SAILS-DM159\source\repos\TrainEnquiry\obj\Debug\netcoreapp3.1\TrainEnquiry.pdb
